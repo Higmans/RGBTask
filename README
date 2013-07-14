@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+Меняем цвет панели кнопками и слайдерами
+Раскоментируйте new TransparentView(); в файле MainClass.java для крутого прозрачного окошка
